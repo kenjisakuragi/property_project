@@ -1,0 +1,42 @@
+name: Property Price Alert
+
+on:
+  schedule:
+    # 毎朝 7:00 JST (UTC 22:00) に実行
+    - cron: '0 22 * * *'
+  # GitHub の Actions タブから手動実行も可能
+  workflow_dispatch:
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # data/prices.json をコミットバックするために必要
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run price checker
+        run: python checker.py
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+
+      - name: Commit updated price history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/prices.json
+          # 変更がある場合のみコミット
+          git diff --staged --quiet || git commit -m "chore: update price history [skip ci]"
+          git push

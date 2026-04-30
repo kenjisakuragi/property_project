@@ -1,0 +1,49 @@
+# =============================================
+# 不動産値下げアラート 設定ファイル
+# =============================================
+# このファイルを編集して監視条件を設定してください。
+# 変更後は GitHub にプッシュするだけで次回実行から反映されます。
+
+alerts:
+  # --- エリア監視の例（SUUMO） ---
+  - name: "渋谷区 中古マンション 1億円以下"
+    source: suumo
+    type: area
+    # SUUMO で条件を絞り込んだ検索結果ページの URL をそのまま貼り付けてください
+    # 例: https://suumo.jp/ms/chuko/tokyo/sc_shibuya/
+    search_url: "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/"
+    max_price: 100000000  # 1億円（円単位）
+    notify_on:
+      - price_drop    # エリア内で値下げがあったら通知
+      - new_listing   # 予算内の新着物件が出たら通知
+
+  # --- 特定物件の監視例（SUUMO） ---
+  # - name: "お気に入り物件を監視"
+  #   source: suumo
+  #   type: property
+  #   urls:
+  #     - "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_XXXXXXXX/"
+  #     - "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_YYYYYYYY/"
+  #   notify_on:
+  #     - price_drop
+
+  # --- エリア監視の例（マンションレビュー） ---
+  # - name: "港区 マンションレビュー監視"
+  #   source: mansion_review
+  #   type: area
+  #   search_url: "https://www.mansion-review.jp/search/?pref=13&city=港区"
+  #   max_price: 150000000
+  #   notify_on:
+  #     - price_drop
+  #     - new_listing
+
+# メール送信先（複数指定可）
+email:
+  to:
+    - "your-email@example.com"
+    # - "another@example.com"
+
+# 送信元・SMTP 設定は GitHub Secrets で管理します
+# Settings > Secrets and variables > Actions に以下を登録してください:
+#   GMAIL_ADDRESS      : 送信元 Gmail アドレス
+#   GMAIL_APP_PASSWORD : Gmail アプリパスワード（2段階認証が必要）
