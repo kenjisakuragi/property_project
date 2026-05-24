@@ -1200,8 +1200,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20068254/"
   },
   "suumo:nc_78373927": {
-    "price": 49800000,
-    "name": "円山町（神泉駅） 4980万円",
+    "price": 48800000,
+    "name": "円山町（神泉駅） 4880万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_78373927/"
   },
   "suumo:nc_20764839": {
@@ -4661,7 +4661,7 @@
   },
   "suumo:nc_20907884": {
     "price": 74900000,
-    "name": "本町４（西新宿五丁目駅） 7490万円",
+    "name": "2016年9月築の定期借地権マンション　55.87平米　２ＬＤＫ＋ＷＩＣ",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20907884/"
   },
   "suumo:nc_20899888": {
@@ -4788,5 +4788,40 @@
     "price": 95800000,
     "name": "【English・中文OK】リノベ済｜新耐震｜眺望◎｜ペットOK",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20900076/"
+  },
+  "suumo:nc_20917456": {
+    "price": 66900000,
+    "name": "～当日ご案内可～◇頭金0円からのご提案◇南東向き、４階◇リノベ済！",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20917456/"
+  },
+  "suumo:nc_20917955": {
+    "price": 49800000,
+    "name": "◆◆弊社売主物件◆◆ペット飼育可能×リノベーション×アクセス充実",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20917955/"
+  },
+  "suumo:nc_20919416": {
+    "price": 49800000,
+    "name": "幡ヶ谷１（幡ヶ谷駅） 4980万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20919416/"
+  },
+  "suumo:nc_20917973": {
+    "price": 57800000,
+    "name": "◆◆弊社売主物件◆◆ペット可×リノベーション×専用庭付×良好な住環境",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20917973/"
+  },
+  "suumo:nc_20919597": {
+    "price": 59800000,
+    "name": "表参道・渋谷生活圏都心を自在に使いこなすリノベ住戸",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20919597/"
+  },
+  "suumo:nc_20332068": {
+    "price": 69800000,
+    "name": "◆代官山の落ち着いた街並みに佇むヴィンテージレジデンス◆",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20332068/"
+  },
+  "suumo:nc_20848927": {
+    "price": 74800000,
+    "name": "代官山町（代官山駅） 7480万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20848927/"
   }
 }
