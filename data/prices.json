@@ -5090,8 +5090,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20936853/"
   },
   "suumo:nc_78685799": {
-    "price": 99800000,
-    "name": "東２（渋谷駅） 9980万円",
+    "price": 89800000,
+    "name": "東２（渋谷駅） 8980万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_78685799/"
   },
   "suumo:nc_20940099": {
@@ -7138,5 +7138,10 @@
     "price": 99500000,
     "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21083999/"
+  },
+  "suumo:nc_21074660": {
+    "price": 88900000,
+    "name": "●野村不動産分譲「PROUD」シリーズ●野村不動産パートナーズ(株)管理",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21074660/"
   }
 }
