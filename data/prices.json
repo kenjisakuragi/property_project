@@ -170,7 +170,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20579214/"
   },
   "suumo:nc_20295578": {
-    "price": 57800000,
+    "price": 55800000,
     "name": "【当日ご見学可能】代官山に佇むレジデンス×ペット可×専用庭付き×フルリノベ",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20295578/"
   },
@@ -721,7 +721,7 @@
   },
   "suumo:nc_20710083": {
     "price": 89800000,
-    "name": "7月4日（土）11時～17時オープンルーム開催ぜひご来場ください",
+    "name": "7月11日（土）11時～17時オープンルーム開催ぜひご来場下さい",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20710083/"
   },
   "suumo:nc_20695731": {
@@ -8415,7 +8415,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21182386/"
   },
   "suumo:nc_21182364": {
-    "price": 81800000,
+    "price": 78800000,
     "name": "恵比寿駅9分の広尾エリア、約55m2のゆとりが贅沢なペット可物件。詳細資料あり",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21182364/"
   },
@@ -8465,7 +8465,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21076311/"
   },
   "suumo:nc_21188764": {
-    "price": 54990000,
+    "price": 52990000,
     "name": "【当日 内覧可能です】南平台の秀和ヴィンテージ×お洒落で収納豊富なリノベ",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21188764/"
   },
@@ -8531,7 +8531,7 @@
   },
   "suumo:nc_21122076": {
     "price": 54800000,
-    "name": "【新着】「渋谷駅」徒歩6分　人気の鶯谷アドレスに住まう　資料請求だけでも",
+    "name": "「渋谷駅」徒歩6分　人気の鶯谷アドレスに住まう　資料請求だけでも",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21122076/"
   },
   "suumo:nc_21195441": {
@@ -9195,7 +9195,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21227012/"
   },
   "suumo:nc_21226828": {
-    "price": 81800000,
+    "price": 78800000,
     "name": "【7/9～7/13 即日内覧会開催】リフォーム×ペット可×【恵比寿】9分♪",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21226828/"
   },
@@ -9413,5 +9413,45 @@
     "price": 99980000,
     "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21235461/"
+  },
+  "suumo:nc_21233563": {
+    "price": 41800000,
+    "name": "月々11万円台～「広尾駅」徒歩7分、眺望良好な明るい最上階・3方向角部屋。",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21233563/"
+  },
+  "suumo:nc_21241385": {
+    "price": 54800000,
+    "name": "恵比寿駅徒歩3分、洗練された都心生活を。",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21241385/"
+  },
+  "suumo:nc_21241142": {
+    "price": 57800000,
+    "name": "■内装リノベーションで設備一新■専用庭付き1LDK■ペット飼育可",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21241142/"
+  },
+  "suumo:nc_21233894": {
+    "price": 85990000,
+    "name": "【新着】「幡ヶ谷駅」6分　ヤクルト旧分譲　児童公園隣接の静かな住宅地です",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21233894/"
+  },
+  "suumo:nc_21241771": {
+    "price": 61900000,
+    "name": "●損したくない方は必見！！物件概要の諸費用欄をご確認ください！●即案内可！",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21241771/"
+  },
+  "suumo:nc_21239767": {
+    "price": 48800000,
+    "name": "中国語＆英語対応可能！住宅＋リフォーム提案可能！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21239767/"
+  },
+  "suumo:nc_21241096": {
+    "price": 73000000,
+    "name": "千駄ヶ谷５（代々木駅） 7300万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21241096/"
+  },
+  "suumo:nc_21240470": {
+    "price": 79800000,
+    "name": "【新着】「恵比寿」14分 プラチナ通りすぐ!　美しい吹抜けエントランス!",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21240470/"
   }
 }
