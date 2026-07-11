@@ -330,7 +330,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_79051275/"
   },
   "suumo:nc_79208669": {
-    "price": 79900000,
+    "price": 79300000,
     "name": "■三井のリハウス■4階部分の角住戸2025年5月室内リフォーム済",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_79208669/"
   },
@@ -1050,7 +1050,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20211776/"
   },
   "suumo:nc_20622716": {
-    "price": 44800000,
+    "price": 41800000,
     "name": "2026年2月リノベ―ション☆笹塚駅・幡ヶ谷駅から徒歩10分以内☆ペット飼育可☆",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20622716/"
   },
@@ -2280,8 +2280,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20720594/"
   },
   "suumo:nc_20627226": {
-    "price": 69800000,
-    "name": "恵比寿１（恵比寿駅） 6980万円",
+    "price": 67800000,
+    "name": "恵比寿１（恵比寿駅） 6780万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20627226/"
   },
   "suumo:nc_79182251": {
@@ -4755,13 +4755,13 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20892518/"
   },
   "suumo:nc_20913714": {
-    "price": 64200000,
-    "name": "上原１（代々木上原駅） 6420万円",
+    "price": 62200000,
+    "name": "上原１（代々木上原駅） 6220万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20913714/"
   },
   "suumo:nc_20912602": {
-    "price": 64200000,
-    "name": "上原１（代々木上原駅） 6420万円",
+    "price": 62200000,
+    "name": "上原１（代々木上原駅） 6220万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20912602/"
   },
   "suumo:nc_20910292": {
@@ -6465,7 +6465,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21033471/"
   },
   "suumo:nc_21033126": {
-    "price": 84800000,
+    "price": 78800000,
     "name": "～渋谷区本町の住宅地、築浅低層レジデンス～都心近接の静かな住環境",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21033126/"
   },
@@ -8836,7 +8836,7 @@
   },
   "suumo:nc_21200414": {
     "price": 33000000,
-    "name": "◆◆本日「空き」あり！◆◆南面テラス付きで採光良好×都心へのアクセス良好",
+    "name": "◆◆本日「空き」あり！◆◆「参宮橋」駅8分！×南向き×テラス付き",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21200414/"
   },
   "suumo:nc_21200832": {
@@ -8911,7 +8911,7 @@
   },
   "suumo:nc_21201029": {
     "price": 64800000,
-    "name": "◆◆本日「空き」あり！◆◆今日から一緒！ペット可×リノベーション×最上階",
+    "name": "◆◆本日「空き」あり◆◆「新宿」駅5分×南向きの最上階×リノベ×眺望良好",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21201029/"
   },
   "suumo:nc_21200944": {
@@ -9743,5 +9743,80 @@
     "price": 99800000,
     "name": "幡ヶ谷３（幡ヶ谷駅） 9980万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20049712/"
+  },
+  "suumo:nc_21262224": {
+    "price": 31800000,
+    "name": "「幡ヶ谷駅」徒歩5分。ライフやダイエーなど商業施設充実、陽当り良好な角部屋",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21262224/"
+  },
+  "suumo:nc_21206040": {
+    "price": 69990000,
+    "name": "≪いまからのご見学可能です≫ご自宅送迎によるご来店・ご内覧サービス実施中",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21206040/"
+  },
+  "suumo:nc_21262817": {
+    "price": 99980000,
+    "name": "■吹抜のある開放的なメゾネットタイプ■内装リフォーム実施■ペット飼育可",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21262817/"
+  },
+  "suumo:nc_21267401": {
+    "price": 36800000,
+    "name": "◆渋谷区本町×デザイナーズマンション！ペット飼育可♪「新宿」駅直通４分！",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21267401/"
+  },
+  "suumo:nc_21268291": {
+    "price": 98000000,
+    "name": "【弊社窓口】◆2沿線以上利用可、◆ペット可、◆眺望良好、◆仲手50％オフ",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21268291/"
+  },
+  "suumo:nc_21267831": {
+    "price": 36800000,
+    "name": "■京王新線幡ヶ谷駅徒歩10分■新耐震基準適合マンション",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21267831/"
+  },
+  "suumo:nc_21263435": {
+    "price": 40000000,
+    "name": "【English・中文OK・市場比較もご説明】最上階！角部屋！",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21263435/"
+  },
+  "suumo:nc_21266769": {
+    "price": 41800000,
+    "name": "幡ヶ谷２（笹塚駅） 4180万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21266769/"
+  },
+  "suumo:nc_21266666": {
+    "price": 44800000,
+    "name": "鶯谷町（渋谷駅） 4480万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21266666/"
+  },
+  "suumo:nc_21266662": {
+    "price": 52800000,
+    "name": "鶯谷町（渋谷駅） 5280万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21266662/"
+  },
+  "suumo:nc_21267755": {
+    "price": 61900000,
+    "name": "恵比寿西１（恵比寿駅） 6190万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21267755/"
+  },
+  "suumo:nc_21263934": {
+    "price": 66900000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21263934/"
+  },
+  "suumo:nc_21263880": {
+    "price": 70980000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21263880/"
+  },
+  "suumo:nc_21262984": {
+    "price": 79800000,
+    "name": "【3階×新規リノベ】南向き×新規リノベ済のお部屋◇ホテルライクな内廊下設計",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21262984/"
+  },
+  "suumo:nc_21262978": {
+    "price": 86800000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21262978/"
   }
 }
