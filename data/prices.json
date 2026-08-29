@@ -1920,8 +1920,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20604202/"
   },
   "suumo:nc_20674569": {
-    "price": 65000000,
-    "name": "代々木５（代々木八幡駅） 6500万円",
+    "price": 62800000,
+    "name": "代々木５（代々木八幡駅） 6280万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20674569/"
   },
   "suumo:nc_20444193": {
@@ -2560,8 +2560,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20590288/"
   },
   "suumo:nc_20578723": {
-    "price": 79800000,
-    "name": "東１（渋谷駅） 7980万円",
+    "price": 74800000,
+    "name": "東１（渋谷駅） 7480万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20578723/"
   },
   "suumo:nc_78950374": {
@@ -2610,7 +2610,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20046685/"
   },
   "suumo:nc_20178506": {
-    "price": 79980000,
+    "price": 79990000,
     "name": "高台　楽器・ペット・バイク相談  管理体制良好「神泉駅」徒歩2分 交通至便",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20178506/"
   },
@@ -3551,7 +3551,7 @@
   },
   "suumo:nc_20816141": {
     "price": 75980000,
-    "name": "代々木３（参宮橋駅） 7598万円",
+    "name": "◇参宮橋駅・徒歩5分＜南向きリノベーション住居＞",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20816141/"
   },
   "suumo:nc_20238025": {
@@ -5045,7 +5045,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20827671/"
   },
   "suumo:nc_20837245": {
-    "price": 87990000,
+    "price": 84990000,
     "name": "【渋谷10分×ペット飼育】静寂とカルチャーが交錯する「神泉町」アドレス！",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20837245/"
   },
@@ -14338,5 +14338,75 @@
     "price": 89980000,
     "name": "【いまからのご見学可能です】ご自宅送迎によるご来店・ご内覧サービス実施中",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21548109/"
+  },
+  "suumo:nc_21567673": {
+    "price": 62800000,
+    "name": "≪内覧受付中≫南西角部屋×全室2面採光！耐震適合・リノベ履歴有2LDK！",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21567673/"
+  },
+  "suumo:nc_21589389": {
+    "price": 69800000,
+    "name": "〈購入者特典〉弊社から当物件のご成約でアフターサービス最長10年に！",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21589389/"
+  },
+  "suumo:nc_21587468": {
+    "price": 34800000,
+    "name": "幡ヶ谷１（幡ヶ谷駅） 3480万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21587468/"
+  },
+  "suumo:nc_21586206": {
+    "price": 36800000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21586206/"
+  },
+  "suumo:nc_21569214": {
+    "price": 36800000,
+    "name": "令和8年7月内装デザインリフォーム完成下階が気にならない1階部分",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21569214/"
+  },
+  "suumo:nc_21585691": {
+    "price": 44990000,
+    "name": "幡ヶ谷駅・笹塚駅徒歩4分。最上階1LDK、新規設備充実のリノベーション住戸",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21585691/"
+  },
+  "suumo:nc_21589237": {
+    "price": 44990000,
+    "name": "千駄ヶ谷３（原宿駅） 4499万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21589237/"
+  },
+  "suumo:nc_21586454": {
+    "price": 48800000,
+    "name": "中国語＆英語対応可能！住宅＋リフォーム提案可能！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21586454/"
+  },
+  "suumo:nc_21520135": {
+    "price": 48800000,
+    "name": "初台２（初台駅） 4880万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21520135/"
+  },
+  "suumo:nc_21586602": {
+    "price": 59990000,
+    "name": "渋谷駅徒歩6分、ペット飼育可能なフルリノベーションマンションの1LDKです",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21586602/"
+  },
+  "suumo:nc_21585929": {
+    "price": 59990000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21585929/"
+  },
+  "suumo:nc_21587389": {
+    "price": 62500000,
+    "name": "富ヶ谷２（代々木八幡駅） 6250万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21587389/"
+  },
+  "suumo:nc_21585441": {
+    "price": 69900000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21585441/"
+  },
+  "suumo:nc_21585763": {
+    "price": 99990000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21585763/"
   }
 }
