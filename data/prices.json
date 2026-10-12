@@ -2240,8 +2240,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20515908/"
   },
   "suumo:nc_20754260": {
-    "price": 77800000,
-    "name": "・新規リフォーム物件　・37.32m2　・1LDK",
+    "price": 74800000,
+    "name": "恵比寿３（広尾駅） 7480万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20754260/"
   },
   "suumo:nc_20762682": {
@@ -5725,7 +5725,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20976320/"
   },
   "suumo:nc_20967639": {
-    "price": 65990000,
+    "price": 64990000,
     "name": "人気の『参宮橋』駅歩5分　代々木公園や明治神宮があり自然に囲まれた生活を",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20967639/"
   },
@@ -13115,8 +13115,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21486772/"
   },
   "suumo:nc_21482122": {
-    "price": 67800000,
-    "name": "鶯谷町（渋谷駅） 6780万円",
+    "price": 63800000,
+    "name": "鶯谷町（渋谷駅） 6380万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21482122/"
   },
   "suumo:nc_21487648": {
@@ -19266,7 +19266,7 @@
   },
   "suumo:nc_21911924": {
     "price": 62900000,
-    "name": "《すぐにご案内可能！》笹塚10分・築浅ホテルライク・内廊下・リフォーム済",
+    "name": "笹塚・幡ヶ谷駅徒歩10分・2018年築×リフォーム済・ペット可",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21911924/"
   },
   "suumo:nc_21913156": {
@@ -19383,5 +19383,70 @@
     "price": 99990000,
     "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21908447/"
+  },
+  "suumo:nc_21917662": {
+    "price": 74800000,
+    "name": "≪本日見学出来ます≫平成24年築、リフォームで整う開放的な住まい。",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21917662/"
+  },
+  "suumo:nc_21920634": {
+    "price": 74800000,
+    "name": "■3路線3駅利用可■新規フルリフォーム済み■プライバシー性の高い内廊下設計",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21920634/"
+  },
+  "suumo:nc_21918388": {
+    "price": 22990000,
+    "name": "幡ヶ谷２（幡ヶ谷駅） 2299万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21918388/"
+  },
+  "suumo:nc_21916735": {
+    "price": 54800000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21916735/"
+  },
+  "suumo:nc_21919724": {
+    "price": 66800000,
+    "name": "代々木４（参宮橋駅） 6680万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21919724/"
+  },
+  "suumo:nc_21918286": {
+    "price": 69800000,
+    "name": "代々木２（新宿駅） 6980万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21918286/"
+  },
+  "suumo:nc_21919727": {
+    "price": 74900000,
+    "name": "代々木３（代々木駅） 7490万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21919727/"
+  },
+  "suumo:nc_21915769": {
+    "price": 78800000,
+    "name": "初台１（初台駅） 7880万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21915769/"
+  },
+  "suumo:nc_21921669": {
+    "price": 84800000,
+    "name": "千駄ヶ谷３（北参道駅） 8480万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21921669/"
+  },
+  "suumo:nc_21918051": {
+    "price": 86000000,
+    "name": "【　元代々木桜苑マンション　】―Renovation―利便性良好な好立地",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21918051/"
+  },
+  "suumo:nc_21916135": {
+    "price": 88000000,
+    "name": "中国語＆英語対応可！頭金0で購入可！期間限定サービス有！詳細【諸費用】参照",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21916135/"
+  },
+  "suumo:nc_21920291": {
+    "price": 89800000,
+    "name": "代々木１（代々木駅） 8980万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21920291/"
+  },
+  "suumo:nc_21903068": {
+    "price": 93800000,
+    "name": "【見学予約受付中】17㎡超の専用庭付♪1階角住戸×ペット可！",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21903068/"
   }
 }
