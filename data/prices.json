@@ -11830,8 +11830,8 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21113394/"
   },
   "suumo:nc_20540160": {
-    "price": 94800000,
-    "name": "広尾５（広尾駅） 9480万円",
+    "price": 82800000,
+    "name": "広尾５（広尾駅） 8280万円",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_20540160/"
   },
   "suumo:nc_76687074": {
@@ -14341,7 +14341,7 @@
   },
   "suumo:nc_21567673": {
     "price": 59800000,
-    "name": "【空室！】駅平坦4分×南西角！耐震適合＆全窓内窓付リノベ57㎡2LDK！",
+    "name": "【空室】駅平坦4分×南西角！耐震適合＆全窓内窓付リノベ57㎡・2LDK！",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21567673/"
   },
   "suumo:nc_21589389": {
@@ -16545,7 +16545,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21740505/"
   },
   "suumo:nc_21735762": {
-    "price": 74980000,
+    "price": 72980000,
     "name": "【即内見可・定休日無し】◇3階・1LDK◆リフォーム実施",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21735762/"
   },
@@ -18870,7 +18870,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21883813/"
   },
   "suumo:nc_21569606": {
-    "price": 99980000,
+    "price": 94980000,
     "name": "【見学予約受付中】「恵比寿」駅徒歩２分！11階部分の南西角住戸！２ＬＤＫ！",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21569606/"
   },
@@ -19245,7 +19245,7 @@
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21871092/"
   },
   "suumo:nc_21896709": {
-    "price": 99980000,
+    "price": 94980000,
     "name": "【即内見可・定休日無し】◇南向き・10階◆「恵比寿」駅まで徒歩約5分",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21896709/"
   },
@@ -19671,7 +19671,7 @@
   },
   "suumo:nc_21935879": {
     "price": 62800000,
-    "name": "笹塚２（笹塚駅） 6280万円",
+    "name": "笹塚駅まで徒歩約４分■２沿線利用可■商店街多数■サンルーム■１１階部分",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21935879/"
   },
   "suumo:nc_21932125": {
@@ -19728,5 +19728,60 @@
     "price": 99800000,
     "name": "当社が当物件売主様の【窓口】です",
     "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21934355/"
+  },
+  "suumo:nc_21939569": {
+    "price": 25000000,
+    "name": "■南西向き角住戸につき採光・通風良好！■ペット飼育可（細則有り）",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21939569/"
+  },
+  "suumo:nc_21939756": {
+    "price": 39800000,
+    "name": "代々木・新宿駅徒歩圏！都心の利便を享受する角住戸◆トランクルーム専用使用権",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21939756/"
+  },
+  "suumo:nc_21930482": {
+    "price": 62900000,
+    "name": "「笹塚駅」10分　2018年築　豊かな植栽と石畳風のアプローチが迎える私邸",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21930482/"
+  },
+  "suumo:nc_21939568": {
+    "price": 65800000,
+    "name": "■渋谷駅へ徒歩約10分の好立地！■南西向き角住戸につき採光良好",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21939568/"
+  },
+  "suumo:nc_21937980": {
+    "price": 36800000,
+    "name": "■新規内装リフォーム■住環境・管理体制良好■ペット飼育可",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21937980/"
+  },
+  "suumo:nc_21940084": {
+    "price": 72990000,
+    "name": "本町５（幡ヶ谷駅） 7299万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21940084/"
+  },
+  "suumo:nc_21938693": {
+    "price": 72990000,
+    "name": "◆新規リフォーム×上下階で生活空間を分けられるメゾネット♪ペット2匹飼育可",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21938693/"
+  },
+  "suumo:nc_21394167": {
+    "price": 94980000,
+    "name": "【事務所使用可】恵比寿駅徒歩2分、仕事場にも住まいにも、リノベ2LDK",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21394167/"
+  },
+  "suumo:nc_21938100": {
+    "price": 94990000,
+    "name": "本町４（西新宿五丁目駅） 9499万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21938100/"
+  },
+  "suumo:nc_21939427": {
+    "price": 96800000,
+    "name": "本町３（西新宿五丁目駅） 9680万円",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21939427/"
+  },
+  "suumo:nc_21657673": {
+    "price": 98800000,
+    "name": "9階三方角部屋｜ピアノ・ペット可｜2LDK⇔1LDK変更可｜10mバルコニー",
+    "url": "https://suumo.jp/ms/chuko/tokyo/sc_shibuya/nc_21657673/"
   }
 }
